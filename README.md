@@ -1,18 +1,22 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Fábio Souza!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Fábio Souza!
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-fabiosouzadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiosouzadev/)](https://www.linkedin.com/in/fabiosouzadev/)
+[![Gmail Badge](https://img.shields.io/badge/-fabiovanderlei.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiovanderlei.developer@gmail.com)](mailto:fabiovanderlei.developer@gmail.com)
 
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 
-#### &#x1f4c8; My GitHub Stats
+## &#x1f4c8; My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosouzadev&theme=tokyonight)
 
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiosouzadev&show_icons=true&theme=tokyonight)
 
 
-### Pinned
+## Pinned
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosouzadev&repo=react-todo-list-using-clean-architecture&show_icons=true&theme=tokyonight)](https://github.com/fabiosouzadev/react-todo-list-using-clean-architecture)
 
