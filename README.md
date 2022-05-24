@@ -1,5 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Fábio Souza!
 
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 
 #### &#x1f4c8; My GitHub Stats
 
