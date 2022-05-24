@@ -1,12 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Fábio Souza!
 
 
----
-
-🧰 Toolbox
-
----
-
 #### &#x1f4c8; My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosouzadev&theme=tokyonight)
@@ -15,6 +9,8 @@
 
 
 ### Pinned
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosouzadev&repo=react-todo-list-using-clean-architecture&show_icons=true&theme=tokyonight)](https://github.com/fabiosouzadev/react-todo-list-using-clean-architecture)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiosouzadev&repo=dotfiles&show_icons=true&theme=tokyonight)](https://github.com/fabiosouzadev/dotfiles)
 
