@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Fábio Souza!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I am Fábio Souza!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-fabiosouzadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiosouzadev/)](https://www.linkedin.com/in/fabiosouzadev/)
