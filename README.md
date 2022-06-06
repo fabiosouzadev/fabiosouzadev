@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Fábio Souza!
+### Hi there, I am Fábio Souza!
 
 [![Linkedin Badge](https://img.shields.io/badge/-fabiosouzadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiosouzadev/)](https://www.linkedin.com/in/fabiosouzadev/)
 [![Gmail Badge](https://img.shields.io/badge/-fabiovanderlei.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiovanderlei.developer@gmail.com)](mailto:fabiovanderlei.developer@gmail.com)
@@ -10,9 +10,13 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosouzadev&theme=tokyonight)
+I am Fábio Souza!
 
-![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiosouzadev&show_icons=true&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=rafaballerini](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosouzadev)&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini](https://github-readme-stats.vercel.app/api?username=fabiosouzadev)&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 ## Pinned
