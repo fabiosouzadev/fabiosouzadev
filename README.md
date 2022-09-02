@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosouzadev&show_icons=true&locale=en" alt="fabiosouzadev" /></p>
 
-[![fabiosouzadev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabiosouzadev)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fabiosouzadev" /> </p>
 
 
 
