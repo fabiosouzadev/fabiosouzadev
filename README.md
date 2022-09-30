@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Fabio Souza</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
@@ -23,6 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+
+
+<!-- [![@fabiosouzadev's Holopin board](https://holopin.io/api/user/board?user=fabiosouzadev)](https://holopin.io/@fabiosouzadev) -->
 
 <h3 align="left">Languages and Tools:</h3>
 <table><tr><td valign="top" width="33%">
@@ -117,7 +121,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosouzadev&show_icons=true&locale=en" alt="fabiosouzadev" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fabiosouzadev&langs_count=7&hide=other&layout=compact" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fabiosouzadev&langs_count=7&hide=other&layout=compact" /></p> -->
 
 
 
