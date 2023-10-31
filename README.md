@@ -1,6 +1,10 @@
 ### Hi there 👋
 Welcome to my page!
+
 I'm Fabio Souza and I'm a software engineer/DevOps engineer from Brazil 🇧🇷!
+
+12+ years professional experience as software developer.
+
 
 - 🌱 I’m currently learning Web3, Go and Rust
 - 👯 I’m looking to collaborate on [fabiosouzadev/dotfiles](https://github.com/fabiosouzadev/dotfiles)
@@ -22,4 +26,3 @@ I'm Fabio Souza and I'm a software engineer/DevOps engineer from Brazil 🇧🇷
 
 ### 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fabiosouzadev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fabiosouzadev) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/fabiosouzadev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fabiosouzadev) 
-
